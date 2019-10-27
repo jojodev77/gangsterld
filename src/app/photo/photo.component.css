@@ -1,0 +1,124 @@
+mat-card {
+    margin-top: 10%;
+    background-color: black;
+    width: 100%;
+}
+
+#p1{margin-left: 0%;width: 49.5%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p2{margin-left: 0%;width: 50.5%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p3{margin-left: 0%;width: 53%;height: 900px;padding-top: 3%;padding-right: 3%;}
+#p6{margin-left: 0%;width: 47%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p4{margin-left: 0%;width: 50%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p5{margin-left: 0%;width: 50%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p7{margin-left: 0%;width: 50%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p8{margin-left: 0%;width: 50%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p9{margin-left: 0%;width: 50%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p10{margin-left: 0%;width: 50%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p11{margin-left: 0%;width: 50%;height: 500px;padding-top: 3%;padding-right: 3%;}
+img {cursor: zoom-in;
+   }
+#photo {
+    margin-left: 5%;
+    margin-top: -10%;
+}
+@media  (max-width: 1500px){
+
+    #p1{margin-left: 0%;width: 49.5%;height: 500px;padding-top: 3%;padding-right: 3%;}
+    #p2{margin-left: 0%;width: 50.5%;height: 500px;padding-top: 3%;padding-right: 3%;}
+    #p3{margin-left: 0%;width: 53%;height: 900px;padding-top: 3%;padding-right: 3%;}
+    #p6{margin-left: 0%;width: 47%;height: 500px;padding-top: 3%;padding-right: 3%;}
+    #p4{margin-left: 0%;width: 50%;height: 500px;padding-top: 3%;padding-right: 3%;}
+    #p5{margin-left: 0%;width: 50%;height: 500px;padding-top: 3%;padding-right: 3%;}
+    #p7{margin-left: 0%;width: 50%;height: 500px;padding-top: 3%;padding-right: 3%;}
+    #p8{margin-left: 0%;width: 50%;height: 500px;padding-top: 3%;padding-right: 3%;}
+    #p9{margin-left: 0%;width: 50%;height: 500px;padding-top: 3%;padding-right: 3%;}
+    #p10{margin-left: 0%;width: 50%;height: 500px;padding-top: 3%;padding-right: 3%;}
+    #p11{margin-left: 0%;width: 50%;height: 500px;padding-top: 3%;padding-right: 3%;}
+    img {cursor: zoom-in;
+       }
+    #photo {
+        margin-left: -3%;
+        margin-top: -10%;
+    }
+}
+@media  (max-width: 1290px){
+
+    #p1{margin-left: 0%;width: 49.5%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p2{margin-left: 0%;width: 50.5%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p3{margin-left: 0%;width: 53%;height: 900px;padding-top: 3%;padding-right: 3%;}
+#p6{margin-left: 0%;width: 47%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p4{margin-left: 0%;width: 50%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p5{margin-left: 0%;width: 50%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p7{margin-left: 0%;width: 50%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p8{margin-left: 0%;width: 50%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p9{margin-left: 0%;width: 50%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p10{margin-left: 0%;width: 50%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p11{margin-left: 0%;width: 50%;height: 500px;padding-top: 3%;padding-right: 3%;}
+img {cursor: zoom-in;
+   }
+    #photo {
+        margin-left: -9%;
+        margin-top: -10%;
+    }
+}
+
+@media  (max-width: 1250px){
+
+    #p1{margin-left: 0%;width: 50.5%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p2{margin-left: 0%;width: 51.5%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p3{margin-left: 0%;width: 54%;height: 900px;padding-top: 3%;padding-right: 3%;}
+#p6{margin-left: 0%;width: 48%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p4{margin-left: 0%;width: 51%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p5{margin-left: 0%;width: 51%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p7{margin-left: 0%;width: 51%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p8{margin-left: 0%;width: 51%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p9{margin-left: 0%;width: 51%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p10{margin-left: 0%;width: 51%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p11{margin-left: 0%;width: 50%;height: 500px;padding-top: 3%;padding-right: 3%;}
+img {cursor: zoom-in;
+   }
+    #photo {
+        margin-left: -9%;
+        margin-top: -10%;
+    }
+}
+
+@media  (max-width: 850px){
+
+    #p1{margin-left: 0%;width: 55.5%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p2{margin-left: 0%;width: 56.5%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p3{margin-left: 0%;width: 59%;height: 900px;padding-top: 3%;padding-right: 3%;}
+#p6{margin-left: 0%;width: 53%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p4{margin-left: 0%;width: 56%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p5{margin-left: 0%;width: 56%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p7{margin-left: 0%;width: 56%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p8{margin-left: 0%;width: 56%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p9{margin-left: 0%;width: 56%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p10{margin-left: 0%;width: 56%;height: 500px;padding-top: 3%;padding-right: 3%;}
+#p11{margin-left: 0%;width: 56%;height: 500px;padding-top: 3%;padding-right: 3%;}
+img {cursor: zoom-in;
+   }
+    #photo {
+        margin-left: -9%;
+        margin-top: -10%;
+    }
+}
+    @media  (max-width: 700px){
+
+        mat-card {
+            margin-top: 10%;
+            margin-left: -15%;
+            background-color: black;
+        }
+        #p1{margin-left: 25%;width: 60%;height: 60%;padding-top: 3%;padding-right: 3%;}
+        #p2{margin-left: 25%;width: 60%;height: 60%;padding-top: 3%;padding-right: 3%;}
+        #p3{margin-left: 25%;width: 60%;height: 60%;padding-top: 3%;padding-right: 3%;}
+        #p4{margin-left: 25%;width: 60%;height: 60%;padding-top: 3%;padding-right: 3%;}
+        #p5{margin-left: 25%;width: 60%;height: 60%;padding-top: 3%;padding-right: 3%;}
+        #p6{margin-left: 25%;width: 60%;height: 60%;padding-top: 3%;padding-right: 3%;}
+        #p7{margin-left: 25%;width: 60%;height: 60%;padding-top: 3%;padding-right: 3%;}
+        #p8{margin-left: 25%;width: 60%;height: 60%;padding-top: 3%;padding-right: 3%;}
+        #p9{margin-left: 25%;width: 60%;height: 60%;padding-top: 3%;padding-right: 3%;}
+        #p10{margin-left: 25%;width: 60%;height: 60%;padding-top: 3%;padding-right: 3%;}
+        #p11{margin-left: 25%;width: 60%;height: 60%;padding-top: 3%;padding-right: 3%;}
+    }
