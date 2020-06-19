@@ -34,6 +34,7 @@ li {
         color: white;
         margin-left: 1%;
         width: 100%;
+        min-width: 100% !important;
     background-color: black; }
 .navbar-toggle{
     background-color: black;
@@ -57,7 +58,7 @@ li {
     border: 5px solid black;
     margin-top: 0.3%;
     background-color: black;
-    width: 130% ;
+    min-width: 100%;
     background-color: black; }
 
     #menua {
@@ -69,6 +70,7 @@ li {
          background-color: black;
         color: white;
         margin-left: 4%;
+        min-width: 100% !important;
     background-color: black; }
 .navbar-toggle{
     background-color: black;
@@ -82,7 +84,7 @@ li {
                 border: 5px solid black;
                 margin-top: 0.3%;
                 background-color: black;
-                width: 110% ;
+                min-width: 100% !important;
                 background-color: black; }
             
                 #menua {
@@ -94,11 +96,23 @@ li {
                      background-color: black;
                     color: white;
                     margin-left: 1%;
+                    min-width: 100%;
+                    min-width: 100% !important;
                 background-color: black; }
             .navbar-toggle{
                 background-color: black;
             }
-                    }
+                    
+
+                }
+
+                @media (min-width: 768px) {
+.navbar-nav {
+    float: left;
+    margin: 0;
+    width: 100% !important;
+}
+}
 @media  (max-width: 700px){
     .navbar-brand {
         display: block;
@@ -120,6 +134,7 @@ li {
                     position: absolute;
                     z-index: 2000;
                     margin-left: -5%;
+                    min-width: 100%;
                 }
                     span {
                         font-size: 3vw;

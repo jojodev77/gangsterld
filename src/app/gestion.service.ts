@@ -12,12 +12,11 @@ baudio$ = new Subject<any>();
    }
 aud() {
 this.baudio$.next(this.baudio);
-console.log(this.baudio);
+
 }
 
 antiaud() {
   this.baudio$.next(this.baudio + 1 );
-  console.log(this.baudio);
   }
 
 audi(): Observable<any> {
